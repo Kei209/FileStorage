@@ -1,0 +1,36 @@
+{
+    "iPadPro":[
+        {"id":"","price":"","color":"","storage":"","network":"","description":""},
+        {"id":"","price":"","color":"","storage":"","network":"","description":""}
+    ],
+    "iPadAir":[
+        {"id":"","price":"17,900","color":"太空灰色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-air-gray.png"},
+        {"id":"","price":"17,900","color":"粉紅色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-air-pink.png"},
+        {"id":"","price":"17,900","color":"紫色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-air-purple.png"},
+        {"id":"","price":"17,900","color":"藍色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-airi-blue.png"},
+        {"id":"","price":"17,900","color":"星光色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-air-starlight.png"},
+        {"id":"","price":"22,900","color":"太空灰色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-air-gray.png"},
+        {"id":"","price":"22,900","color":"粉紅色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-air-pink.png"},
+        {"id":"","price":"22,900","color":"紫色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-air-purple.png"},
+        {"id":"","price":"22,900","color":"藍色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-airi-blue.png"},
+        {"id":"","price":"22,900","color":"星光色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-air-starlight.png"},
+        {"id":"","price":"22,900","color":"太空灰色","storage":"64GB","network":"Cellular","description":"./pics/ipad-air-gray.png"},
+        {"id":"","price":"22,900","color":"粉紅色","storage":"64GB","network":"Cellular","description":"./pics/ipad-air-pink.png"},
+        {"id":"","price":"22,900","color":"紫色","storage":"64GB","network":"Cellular","description":"./pics/ipad-air-purple.png"},
+        {"id":"","price":"22,900","color":"藍色","storage":"64GB","network":"Cellular","description":"./pics/ipad-airi-blue.png"},
+        {"id":"","price":"22,900","color":"星光色","storage":"64GB","network":"Cellular","description":"./pics/ipad-air-starlight.png"},
+        {"id":"","price":"27,900","color":"太空灰色","storage":"256GB","network":"Cellular","description":"./pics/ipad-air-gray.png"},
+        {"id":"","price":"27,900","color":"粉紅色","storage":"256GB","network":"Cellular","description":"./pics/ipad-air-pink.png"},
+        {"id":"","price":"27,900","color":"紫色","storage":"256GB","network":"Cellular","description":"./pics/ipad-air-purple.png"},
+        {"id":"","price":"27,900","color":"藍色","storage":"256GB","network":"Cellular","description":"./pics/ipad-airi-blue.png"},
+        {"id":"","price":"27,900","color":"星光色","storage":"256GB","network":"Cellular","description":"./pics/ipad-air-starlight.png"}
+    ],
+    "iPad":[
+        {"id":"","price":"","color":"","storage":"","network":"","description":""},
+        {"id":"","price":"","color":"","storage":"","network":"","description":""}
+    ],
+    "iPadMini":[
+        {"id":"","price":"","color":"","storage":"","network":"","description":""},
+        {"id":"","price":"","color":"","storage":"","network":"","description":""}
+    ]
+}
