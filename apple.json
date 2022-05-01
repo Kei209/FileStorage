@@ -64,8 +64,14 @@
         {"id":"","price":"27,900","color":"星光色","storage":"256GB","network":"Cellular","description":"./pics/ipad-air-starlight.png"}
     ],
     "iPad":[
-        {"id":"","price":"","color":"","storage":"","network":"","description":""},
-        {"id":"","price":"","color":"","storage":"","network":"","description":""}
+        {"id":"","price":"","color":"太空灰色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"銀色","storage":"256GB","network":"Cellular","description":"./pics/ipad-silver.png"},
+        {"id":"","price":"","color":"太空灰色","storage":"64GB","network":"Cellular","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"太空灰色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"太空灰色","storage":"256GB","network":"Cellular","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"銀色","storage":"64GB","network":"Wi-Fi","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"銀色","storage":"64GB","network":"Cellular","description":"./pics/ipad-gray.png"},
+        {"id":"","price":"","color":"銀色","storage":"256GB","network":"Wi-Fi","description":"./pics/ipad-gray.png"}
     ],
     "iPadMini":[
         {"id":"","price":"","color":"","storage":"","network":"","description":""},
